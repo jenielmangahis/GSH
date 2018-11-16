@@ -1,0 +1,33 @@
+.link_buton1 {
+    margin: 30px auto; 
+    padding: 10px; 
+    border-radius: 5px; 
+    color: #3c763d; 
+    background: #dff0d8; 
+    border: 1px solid #3c763d;
+    width: 50%;
+    text-align: center;
+}
+
+.link_buton2 {
+padding: 10px; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 6px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: #ffff00; color: #000; border-radius: 10px; border: 1px solid #999; font-size: 150%;
+}
+input.MyButton:hover {
+color: #ffff00;
+background: #000;
+border: 1px solid #fff;
+}
+
+a{
+ text-decoration:none;
+ color:#cc0000;
+}
+
+a.link_buton{
+ background-color:#cc0000;
+ border:1px solid #660000;
+ border-radius:5px;
+ color:#fff;
+ margin-right:10px;
+ padding:10px 10px 10px 10px;
+}
